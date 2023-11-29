@@ -1,1 +1,1 @@
-# LC-Vortex-Extension
+# Lethal Company Vortex Extension
